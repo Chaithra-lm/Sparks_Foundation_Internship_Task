@@ -21,9 +21,13 @@ other free hosting provider. Check in code in gitlab.
 
 
 Task Submitted by,
+👩‍💻 Author
 
-Chaithra L M
-Connect:https://github.com/Chaithra-lm
-linkedin: https://www.linkedin.com/in/chaithra-l-m-5bb076214/
+Chaithra Lokasara Mahadevaswamy
+🧠 AI Enthusiast | 📊 Data Alchemist | 🎓 Graduate Researcher
+🚀 Innovation Seeker | 🌟 AI Tools Research Intern @ Unicorn Tutor AI
+“Building Tomorrow with Intelligence Today”
+
+🔗 LinkedIn: Your Profile
 
 
